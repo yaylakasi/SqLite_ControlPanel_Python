@@ -1,1 +1,0 @@
-# SqLite_ControlPanel_Python
